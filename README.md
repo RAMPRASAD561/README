@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="./github-banner.png" width="100%" />
+<img src="./Ram Prasad AI Engineer Banner.png" width="100%" />
 
 # RAM PRASAD | AI/ML DEVELOPER
 

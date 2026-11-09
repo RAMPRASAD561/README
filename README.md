@@ -1,5 +1,5 @@
 # README
-# `RAM PRASAD.exe`
+# `RAM PRASAD`
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=600&lines=AI+ENGINEER+IN+DEVELOPMENT;Building+Intelligent+Systems;Learning.+Experimenting.+Engineering." />
@@ -14,11 +14,11 @@
 ```text
 ╔══════════════════════════════════════════════════╗
 ║                                                  ║
-║   ID       : RAM_PRASAD                          ║
-║   ROLE     : AIML ENGINEER IN DEVELOPMENT       ║
+║   ID       : KODIBOYINA RAMPRASAD                ║
+║   ROLE     : AIML ENGINEERING STUDENT            ║
 ║   MODE     : BUILDING                            ║
 ║   MISSION  : Turning ideas into intelligent      ║
-║              systems                              ║
+║              systems                             ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
 ```
@@ -52,14 +52,12 @@ class RamPrasad:
 | PROJECT | MISSION |
 |---|---|
 | Adverse Underwater Computer Vision | Making computer vision work in challenging underwater conditions |
-| AI Sky Navigator | Exploring flight tracking and visualization |
-| BULKAI | Applying AI to bulk cargo forecasting and optimization |
-| Campus Stay Portal | Building practical web-based solutions |
+| Campus Stay Portal | 
 
 ## `03 / TECHNOLOGY STACK`
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,fastapi,pytorch,tensorflow,git,github,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,c,js,html,css,react,fastapi,git,github,vscode&theme=dark" />
 </p>
 
 ## `04 / DEVELOPMENT PHILOSOPHY`
@@ -84,7 +82,7 @@ class RamPrasad:
   <a href="https://github.com/RAMPRASAD561">
     <img src="https://img.shields.io/badge/GitHub-00E5FF?style=for-the-badge&logo=github&logoColor=black" />
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/ramprasad-kodiboiyna-402b443a2/">
     <img src="https://img.shields.io/badge/LinkedIn-00E5FF?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
 </p>

@@ -1,4 +1,15 @@
 # README
+
+<div align="center">
+
+<img src="./github-banner.png" width="100%" />
+
+# RAM PRASAD | AI/ML DEVELOPER
+
+### Building • Innovating • Transforming
+
+</div>
+
 # `RAM PRASAD`
 
 <p align="center">
